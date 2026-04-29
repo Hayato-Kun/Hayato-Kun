@@ -21,9 +21,9 @@
 ###
 
 <div align="center">
-<a href="https://www.linkedin.com/in/vitor-oliveira-souza-30603a36a/" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-oliveira-souza-30603a36a/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>   
-<a href="https://discord.com/users/479330829118734378" target="_blank">
+<a href="https://discord.com/users/479330829118734378" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 </div>
