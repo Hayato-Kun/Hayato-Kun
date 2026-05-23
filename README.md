@@ -1,5 +1,5 @@
 
-<h1 align="center">Vitor Oliveira</h1>
+<h1 align="center">Israel Sousa</h1>
 
 ###
 
@@ -21,11 +21,9 @@
 ###
 
 <div align="center">
-<a href="https://www.linkedin.com/in/vitor-oliveira-souza-30603a36a/" target="_blank" >
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>   
-<a href="https://discord.com/users/479330829118734378" target="_blank" >
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-</a>
+<a href="https://steamcommunity.com/id/hayatoisr/" target="_blank" >
+  <img src="https://img.shields.io/badge/STEAM---?style=flat-square&logo=steam&color=%23035efc
+  " height="25" alt="Steam logo" /></a>   
 </div>
 
 ###
@@ -36,7 +34,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Me chamo Vitor de Oliveira, atualmente sou estudante de Analise e Desenvolvimento de Sistemas (ADS) na Faculade Multivix, tenho 20 anos e busco evoluir profissionalmente de acordo com o Mercado. 
+Rapaziadinha aqui é eu o Hayato e esse aqui é meu github onde eu faço umas brinks e uns bagulho aleatorio quando to entediado
 
 
 ---
