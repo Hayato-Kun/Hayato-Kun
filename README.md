@@ -22,8 +22,8 @@
 
 <div align="center">
 <a href="https://steamcommunity.com/id/hayatoisr/" target="_blank" >
-  <img src="https://img.shields.io/badge/STEAM---?style=flat-square&logo=steam&color=%23035efc
-  " height="25" alt="Steam logo" /></a>   
+  <img alt="Static Badge" src="https://img.shields.io/badge/STEAM---?style=flat-square&logo=steam&color=%23035efc"
+ height="25" alt="Steam logo" /></a>   
 </div>
 
 ###
