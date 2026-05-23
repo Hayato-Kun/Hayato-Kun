@@ -23,7 +23,10 @@
 <div align="center">
 <a href="https://steamcommunity.com/id/hayatoisr/" target="_blank" >
   <img alt="Static Badge" src="https://img.shields.io/badge/STEAM---?style=flat-square&logo=steam&color=%23035efc"
- height="25" alt="Steam logo" /></a>   
+ height="30" alt="Steam logo" /></a>
+<a href="https://open.spotify.com/user/5r7tgbkjvwlxoq8r3h8pyitmy" target="_blank" >
+  <img alt="Static Badge" src="https://img.shields.io/badge/SPOTIFY---?style=flat-square&logo=spotify&color=%23000000"
+ height="30" alt="Spotigy logo" /></a>    
 </div>
 
 ###
@@ -65,22 +68,6 @@ Rapaziadinha aqui é eu o Hayato e esse aqui é meu github onde eu faço umas br
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 <img 
     align="left" 
     alt="Next.js" 
@@ -104,22 +91,6 @@ Rapaziadinha aqui é eu o Hayato e esse aqui é meu github onde eu faço umas br
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Prisma" 
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
-/>
-<img
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 />
 <img
     align="left" 
