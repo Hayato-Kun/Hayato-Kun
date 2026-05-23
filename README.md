@@ -21,9 +21,38 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/STEAM---?style=flat-square&logo=steam&color=%23035efc"
  height="30" alt="Steam logo" /></a>
 <a href="https://open.spotify.com/user/5r7tgbkjvwlxoq8r3h8pyitmy" target="_blank" >
-  <img alt="Static Badge" src="https://img.shields.io/badge/SPOTIFY---?style=flat-square&logo=spotify&color=%23000000"
+  <img alt="Static Badge" src="https://img.shields.io/badge/SPOTIFY-title-black?style=flat-square&logo=spotify&color=%23000000"
  height="30" alt="Spotigy logo" /></a>    
 </div>
+<script>
+async function loadSpotify() {
+  try {
+    const res = await fetch("https://spotify-now-playing-beta-sepia.vercel.app/api/now-playing");
+    const data = await res.json();
+
+    if (!data.playing) {
+      document.getElementById("title").innerText = "nada tocando";
+      document.getElementById("artist").innerText = "";
+      return;
+    }
+    document.getElementById("title").innerText = data.title;
+    document.getElementById("artist").innerText = data.artist;
+    document.getElementById("cover").src = data.albumImage || "";
+
+    let w = 0;
+    setInterval(() => {
+      w = (w + 2) % 100;
+      document.getElementById("progress").style.width = w + "%";
+    }, 300);
+
+  } catch (e) {
+    document.getElementById("status").innerText = "[ error ]";
+  }
+}
+
+loadSpotify();
+setInterval(loadSpotify, 10000);
+</script>
 
 ###
 
